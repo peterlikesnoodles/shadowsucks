@@ -29,6 +29,4 @@ MD5: f7653207090ce3389115e9c88541afe0
 
 ![screenshot of the issue on trello](./screenshot.png)
 
-or, visit this site for detailed information: https://trello.com/c/BTr0vG1O/47-ss-libev-%E7%9A%84%E6%94%AF%E6%8C%81%E6%83%85%E5%86%B5
-
-
+or, visit this site for detailed information: [trello board](https://trello.com/c/BTr0vG1O/47-ss-libev-%E7%9A%84%E6%94%AF%E6%8C%81%E6%83%85%E5%86%B5)
